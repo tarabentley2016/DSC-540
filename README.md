@@ -5,4 +5,4 @@ Part 1: http://localhost:8888/notebooks/Documents/A_GCU/DSC-540/Assignment1_part
 
 Part 2: http://localhost:8888/notebooks/Documents/A_GCU/DSC-540/Assignment1_Part%202.ipynb
 
-Part 3: https://docs.google.com/document/d/1RPLyExua8VFIUJ8tVPnQ_rRgDTDudAHzcZuYegFtTAo/edit?usp=sharing (or the PDF)
+Part 3: https://docs.google.com/document/d/1RPLyExua8VFIUJ8tVPnQ_rRgDTDudAHzcZuYegFtTAo/edit?usp=sharing (or the Word Doc)
