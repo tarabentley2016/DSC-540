@@ -1,3 +1,5 @@
 # DSC-540
 
-# The entire assignment 5 can be viewed from Assignment5.ipynb as located above.
+# Assignment 6 attachments include:
+  # Assignment6_Part1.doc attached to the assignment
+  # Assignment6_Part2.ipynb as located above 
