@@ -1,6 +1,2 @@
-DSC-540 Assignment 6 attachments include:
-
-1) Assignment6_Part1.doc attached to the assignment 
-2) Assignment6_Part2.ipynb as located above 
-
-The Week 7, discussion post 2 is also attached: Assignment7_DQ2.ipynb 
+DSC-540 Assignment 7 attachments include:
+  Assignment7.ipynb attached as located above.
