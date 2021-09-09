@@ -1,1 +1,1 @@
-DSC-540 Assignment 7 can be found above as "Assignment7.ipynb".
+DSC-540 Benchmark - Ensemble-Based Classifier can be found above as "FinalAssignment.ipynb".
